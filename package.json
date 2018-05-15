@@ -46,6 +46,6 @@
   },
   "homepage": "https://github.com/rojo2/is-empty-string#readme",
   "dependencies": {
-    "@rojo2/is-string": "^1.0.1"
+    "@rojo2/is-string": "^1.0.2"
   }
 }
