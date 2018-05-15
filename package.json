@@ -1,6 +1,6 @@
 {
   "name": "@rojo2/is-empty-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns if a value is a string",
   "main": "dist/is-empty-string.cjs.js",
   "module": "dist/is-empty-string.esm.js",
@@ -36,6 +36,7 @@
   },
   "keywords": [
     "string",
+    "empty",
     "types",
     "type",
     "values"

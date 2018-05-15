@@ -7,7 +7,7 @@ export default [
   {
     input: "src/is-empty-string.js",
     output: [
-      { file: pkg.browser, name: "isString", format: "umd" }
+      { file: pkg.browser, name: "isEmptyString", format: "umd" }
     ],
     plugins: [
       resolve(),
