@@ -19,6 +19,7 @@ export default [
   },
   {
     input: "src/is-empty-string.js",
+    external: ["@rojo2/is-string"],
     output: [
       { file: pkg.main, format: "cjs" },
       { file: pkg.module, format: "es" }
